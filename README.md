@@ -42,7 +42,7 @@ auto-discovered (the root `index.ts` / `tui.tsx` re-export `src/`).
 ### B. From GitHub
 
 ```sh
-opencode plugin add github:<user>/opencode-go-usage
+opencode plugin add github:yuexiahu/opencode-go-usage
 ```
 
 ## How it works
