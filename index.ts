@@ -1,2 +1,3 @@
-// 包根入口:兼容按目录发现时直接加载 index.ts 的情况,实际实现在 src/
+// Package root entry: re-export for directory-based discovery,
+// which loads root index.ts directly. Implementation lives in src/.
 export { default } from "./src/index.ts"
