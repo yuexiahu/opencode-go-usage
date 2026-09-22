@@ -1,4 +1,4 @@
-/** @jsxImportSource solid-js */
+/** @jsxImportSource @opentui/solid */
 import { Plugin } from "@opencode/plugin/tui"
 import { GoUsage } from "./rpc.js"
 import { createSignal, Show } from "solid-js"
