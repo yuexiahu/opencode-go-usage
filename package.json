@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Sidebar + footer widget for OpenCode showing OpenCode Go quota (5h/weekly/monthly)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuexiahu/opencode-go-usage.git"
+  },
   "type": "module",
   "exports": {
     ".": "./src/index.ts",
